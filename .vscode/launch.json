@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch l3q3",
+            "request": "launch",
+            "mainClass": "l3q3",
+            "projectName": "src_c5ff2e23"
+        },
+        {
+            "type": "java",
+            "name": "Launch l3q7",
+            "request": "launch",
+            "mainClass": "l3q7",
+            "projectName": "src_c5ff2e23"
+        },
+        {
+            "type": "java",
+            "name": "Launch l3q5p2",
+            "request": "launch",
+            "mainClass": "l3q5p2",
+            "projectName": "src_c5ff2e23"
+        },
+        {
+            "type": "java",
+            "name": "Launch l3q5",
+            "request": "launch",
+            "mainClass": "l3q5",
+            "projectName": "src_c5ff2e23"
+        },
+        {
+            "type": "java",
+            "name": "Launch l3q2",
+            "request": "launch",
+            "mainClass": "l3q2",
+            "projectName": "src_c5ff2e23"
+        },
+        {
+            "type": "java",
+            "name": "Launch l3q6",
+            "request": "launch",
+            "mainClass": "l3q6",
+            "projectName": "src_c5ff2e23"
+        },
+        {
+            "type": "java",
+            "name": "Launch l3q1",
+            "request": "launch",
+            "mainClass": "l3q1",
+            "projectName": "src_c5ff2e23"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch l1q1",
+            "request": "launch",
+            "mainClass": "l1q1",
+            "projectName": "src_c5ff2e23"
+        },
+        {
+            "type": "java",
+            "name": "Launch l1q2",
+            "request": "launch",
+            "mainClass": "l1q2",
+            "projectName": "src_c5ff2e23"
+        },
+        {
+            "type": "java",
+            "name": "Launch l1q3",
+            "request": "launch",
+            "mainClass": "l1q3",
+            "projectName": "src_c5ff2e23"
+        },
+        {
+            "type": "java",
+            "name": "Launch l1q4",
+            "request": "launch",
+            "mainClass": "l1q4",
+            "projectName": "src_c5ff2e23"
+        },
+        {
+            "type": "java",
+            "name": "Launch l1q5",
+            "request": "launch",
+            "mainClass": "l1q5",
+            "projectName": "src_c5ff2e23"
+        },
+        {
+            "type": "java",
+            "name": "Launch l2q1",
+            "request": "launch",
+            "mainClass": "l2q1",
+            "projectName": "src_c5ff2e23"
+        },
+        {
+            "type": "java",
+            "name": "Launch l2q2",
+            "request": "launch",
+            "mainClass": "l2q2",
+            "projectName": "src_c5ff2e23"
+        },
+        {
+            "type": "java",
+            "name": "Launch l2q4",
+            "request": "launch",
+            "mainClass": "l2q4",
+            "projectName": "src_c5ff2e23"
+        },
+        {
+            "type": "java",
+            "name": "Launch l2q7",
+            "request": "launch",
+            "mainClass": "l2q7",
+            "projectName": "src_c5ff2e23"
+        },
+        {
+            "type": "java",
+            "name": "Launch l3q4",
+            "request": "launch",
+            "mainClass": "l3q4",
+            "projectName": "src_c5ff2e23"
+        }
+    ]
+}
