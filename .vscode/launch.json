@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Carro1",
+            "request": "launch",
+            "mainClass": "Q6.Carro1",
+            "projectName": "src_c5ff2e23"
+        },
+        {
+            "type": "java",
+            "name": "Launch Carro",
+            "request": "launch",
+            "mainClass": "Q6.Carro",
+            "projectName": "src_c5ff2e23"
+        },
+        {
+            "type": "java",
             "name": "Launch l3q3",
             "request": "launch",
             "mainClass": "l3q3",
