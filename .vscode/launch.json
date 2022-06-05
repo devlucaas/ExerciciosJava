@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CadastroPessoas",
+            "request": "launch",
+            "mainClass": "LISTA6.Q6.CadastroPessoas",
+            "projectName": "src_c5ff2e23"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "LISTA6.Q3.Main",
+            "projectName": "src_c5ff2e23"
+        },
+        {
+            "type": "java",
             "name": "Launch Carro1",
             "request": "launch",
             "mainClass": "Q6.Carro1",
